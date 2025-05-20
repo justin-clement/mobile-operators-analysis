@@ -641,5 +641,3 @@ def best(category: str):
 	plt.yticks(plans)
 	plt.xticks([])
 	plt.show()
-
-Glo.bestplans()
